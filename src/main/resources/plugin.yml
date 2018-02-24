@@ -1,0 +1,13 @@
+name: BetterParkour
+version: @version@
+main: io.github.Bennyboy1695.BetterParkour.BetterParkour
+authors: [Bennyboy1695]
+
+commands:
+   parkourwand:
+        description: Gives you the wand used to return to your last checkpoint!
+        permission: betterparkour.returnwand
+
+   fakecp:
+        description: set the players checkpoint to 1
+        permission: betterparkour.admin.fakecp
